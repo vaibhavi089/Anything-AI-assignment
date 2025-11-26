@@ -43,8 +43,8 @@ This repository contains the full set of artifacts used for the assignment submi
 | File Name | Description |
 | :--- | :--- |
 | `marketanalysis.ipynb` | The complete Jupyter Notebook containing all Python code for data loading, cleaning, feature engineering, statistical analysis, and visualization generation. |
-| `Key_Insights_Report.docx` (or similar) | A professional document detailing the full strategic insights, conclusions, and hidden patterns discovered from the dataset. |
-| `download (6).png` - `download (13).png` | A collection of all generated visualizations, including plots of PnL distribution, trades by sentiment, and asset-specific risk profiles. |
+| `insight.docx` (or similar) | A professional document detailing the full strategic insights, conclusions, and hidden patterns discovered from the dataset. |
+
 
 ##  Conclusion
 
